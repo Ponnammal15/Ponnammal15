@@ -15,9 +15,9 @@ class Ponnammal:
         self.stack = ["Python", "JSON", "HTML", "CSS", "PHP", "MySQL"]
         self.currently_learning = [
             "Prompt Engineering", "OpenAI API", "GPT Models",
-            "Vector Databases", "RAG", "GenAI App Development"
+            "RAG", "GenAI App Development"
         ]
-        self.fun_fact = "I once built a romantic confession webpage with floating heart animations 💌"
+        self.fun_fact = "I once built a healthcare chatbot"
 
     def motto(self):
         return "Code with curiosity, build with purpose."
@@ -59,20 +59,20 @@ print(me.motto())
 
 ### 📊 GitHub Stats
 
-<a href="https://github.com/ponnammal155">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ponnammal155&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+<a href="https://github.com/ponnammal5">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ponnammal5&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
 </a>
-<a href="https://github.com/ponnammal155">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ponnammal155&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+<a href="https://github.com/ponnammal5">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ponnammal5&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
 </a>
 
-<img src="https://streak-stats.demolab.com?user=ponnammal155&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/>
+<img src="https://streak-stats.demolab.com?user=ponnammal5&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ponnammal155&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ponnammal5&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
 
 ### 🏆 Trophy Wall
 
-<img src="https://github-profile-trophy.vercel.app/?username=ponnammal155&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ponnammal5&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
 
 </div>
 
@@ -143,13 +143,12 @@ print(me.motto())
 ```
 🧱 GenAI Foundations     → Prompt Engineering, JSON Fundamentals
 🤖 LLM Integration       → OpenAI API, GPT Models
-🔎 Retrieval Systems     → Vector Databases, RAG
 🛢️ Data Layer            → Database Management
 ```
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=ponnammal155&color=70a5fd&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=ponnammal5&color=70a5fd&style=flat-square)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 
